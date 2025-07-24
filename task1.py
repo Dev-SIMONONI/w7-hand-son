@@ -28,3 +28,6 @@ print(meals[midFood])
 
 meals.sort()
 print(meals)
+
+alpha = sorted(meals)
+print(alpha)
